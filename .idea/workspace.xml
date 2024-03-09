@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba812ff3-70d1-4157-8952-8184a87fd14e" name="Changes" comment="initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ba812ff3-70d1-4157-8952-8184a87fd14e" name="Changes" comment="HealthProfile class with instance variables representing sensitive data of a patient. Created constructor. Methods implemented: getters/setters, age in years calculator, max/min target heart rate calculator, BMI calculator.&#10;GUI: fields for imputing the data, button for calculations of the BMI." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +48,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709995952695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HealthProfile class with instance variables representing sensitive data of a patient. Created constructor. Methods implemented: getters/setters, age in years calculator, max/min target heart rate calculator, BMI calculator.&#10;GUI: fields for imputing the data, button for calculations of the BMI.">
+      <created>1709996394570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709996394570</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -59,6 +71,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="HealthProfile class with instance variables representing sensitive data of a patient. Created constructor. Methods implemented: getters/setters, age in years calculator, max/min target heart rate calculator, BMI calculator.&#10;GUI: fields for imputing the data, button for calculations of the BMI." />
+    <option name="LAST_COMMIT_MESSAGE" value="HealthProfile class with instance variables representing sensitive data of a patient. Created constructor. Methods implemented: getters/setters, age in years calculator, max/min target heart rate calculator, BMI calculator.&#10;GUI: fields for imputing the data, button for calculations of the BMI." />
   </component>
 </project>
